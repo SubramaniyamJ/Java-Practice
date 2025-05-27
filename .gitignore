@@ -1,4 +1,4 @@
-practice2\src\.class
-practice\src\.class
-practice\out\
-practice2\out\
+*.class
+*/out/
+*/.idea/
+*.gitignore
